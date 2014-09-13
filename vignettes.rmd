@@ -22,7 +22,7 @@ Before R 3.0.0, only way to create vignetes was with Sweave and Latex. This was 
   [rmarkdown package](http://rmarkdown.rstudio.com/). It uses the powerful
   [pandoc](http://johnmacfarlane.net/pandoc) to convert markdown to html.
 
-Once I switched to using rmarkdown for vignettes I found that my productivity increase, I and enjoyed writing them more, so I've written far more vignettes in rmarkdown than I ever did in Sweave.
+Once I switched to using rmarkdown for vignettes I found that my productivity increased, and I enjoyed writing them more, so I've written far more vignettes in rmarkdown than I ever did in Sweave.
 
 Currently, the easiest way to get Rmarkdown is to use [RStudio](http://www.rstudio.com/products/rstudio/download/preview/). Otherwise, you'll need to `devtools::install_github("rstudio/rmarkdown")` and [install pandoc](http://johnmacfarlane.net/pandoc/installing.html).  
 
@@ -96,7 +96,7 @@ The fields are:
 
 ## Markdown {#markdown}
 
-Rmarkdown vignettes are written in markdown. John Gruber, the author of markdown, describes does a good job of summarising the goals and philosophy of markdown:
+Rmarkdown vignettes are written in markdown. John Gruber, the author of markdown, does a good job of summarising the goals and philosophy of markdown:
 
 > Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
 
